@@ -1,6 +1,6 @@
 ﻿namespace TestTask
 {
-    class Rectangle 
+    public class Rectangle 
     {
         public readonly Color Color;
         public readonly Point BotLeft;

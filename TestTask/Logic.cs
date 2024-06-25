@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace TestTask
 {
-    internal class Logic
+    public class Logic
     {
         public List<Rectangle> SecondaryRectangles { get; private set; }
 

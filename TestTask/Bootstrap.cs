@@ -10,7 +10,7 @@
             logic.CreateSecondaryRectangle(Color.Green, new Point(7, 3), new Point(11, 7));
 
 
-            logic.CreateMainRectangle(new Rectangle(new Point(0, 0), new Point(9, 8)), false);
+            logic.CreateMainRectangle(new Rectangle(new Point(0, 0), new Point(9, 8)), true, Color.Green);
             //небольшое пояснение: ignoreOutDots это параметр отвечающий за то, необходимо ли включать точки которые не попали в основной прямоугольник
             //false - первое задание
             //true - второе

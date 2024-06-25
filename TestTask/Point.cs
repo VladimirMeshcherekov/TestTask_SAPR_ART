@@ -1,6 +1,6 @@
 ﻿namespace TestTask
 {
-    class Point
+    public class Point
     {
         public readonly double X;
         public readonly double Y;

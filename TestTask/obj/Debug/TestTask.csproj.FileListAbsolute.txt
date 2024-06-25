@@ -5,3 +5,6 @@ D:\clear\TestTask\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.c
 D:\clear\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
 D:\clear\TestTask\TestTask\obj\Debug\TestTask.exe
 D:\clear\TestTask\TestTask\obj\Debug\TestTask.pdb
+D:\clear\TestTask\TestTask\bin\Debug\xUnit.V8.Contracts.dll
+D:\clear\TestTask\TestTask\bin\Debug\XUnit.V8.dll
+D:\clear\TestTask\TestTask\obj\Debug\TestTask.csproj.CopyComplete
