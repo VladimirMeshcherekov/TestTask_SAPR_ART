@@ -1,0 +1,7 @@
+D:\clear\TestTask\TestTask\bin\Debug\TestTask.exe
+D:\clear\TestTask\TestTask\bin\Debug\TestTask.pdb
+D:\clear\TestTask\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+D:\clear\TestTask\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.cache
+D:\clear\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+D:\clear\TestTask\TestTask\obj\Debug\TestTask.exe
+D:\clear\TestTask\TestTask\obj\Debug\TestTask.pdb
